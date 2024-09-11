@@ -1,74 +1,74 @@
-import card_img1 from './card1.jpg';
-import card_img2 from './card2.jpg';
-import card_img3 from './card3.jpg';
-import card_img4 from './card4.jpg';
-import card_img5 from './card5.jpg';
-import card_img6 from './card6.jpg';
-import card_img7 from './card7.jpg';
-import card_img8 from './card8.jpg';
-import card_img9 from './card9.jpg';
-import card_img10 from './card10.jpg';
-import card_img11 from './card11.jpg';
-import card_img12 from './card12.jpg';
-import card_img13 from './card13.jpg';
-import card_img14 from './card14.jpg';
+import card_img1 from './card1.webp';
+import card_img2 from './card2.webp';
+import card_img3 from './card3.webp';
+import card_img4 from './card4.webp';
+import card_img5 from './card5.webp';
+import card_img6 from './card6.webp';
+import card_img7 from './card7.webp';
+import card_img8 from './card8.webp';
+import card_img9 from './card9.webp';
+import card_img10 from './card10.webp';
+import card_img11 from './card11.webp';
+import card_img12 from './card12.webp';
+import card_img13 from './card13.webp';
+import card_img14 from './card14.webp';
 
 const cards_data = [
     {
         image:card_img1,
-        name:"Kung Fu Panda"
+        name:"Rebel Ridge"
     },
     {
         image:card_img2,
-        name:"Squid Game"
+        name:"Prison Break"
     },
     {
         image:card_img3,
-        name:"Squid Challange"
+        name:"De Volta Aos 15"
     },
     {
         image:card_img4,
-        name:"Jawan"
+        name:"A Liga"
     },
     {
         image:card_img5,
-        name:"The Ghost"
+        name:"O Casal Perfeito"
     },
     {
         image:card_img6,
-        name:"Lucifer"
+        name:"A Libertação"
     },
     {
         image:card_img7,
-        name:"The Railway MEN"
+        name:"Ferdinand"
     },
     {
         image:card_img8,
-        name:"Young Sheldon"
+        name:"Emily em Paris"
     },
     {
         image:card_img9,
-        name:"Sacred Games"
+        name:"Armadilha em Alto Mar"
     },
     {
         image:card_img10,
-        name:"Adipurush"
+        name:"Downton Abbey II"
     },
     {
         image:card_img11,
-        name:"Sukhee"
+        name:"Rebel Ridge"
     },
     {
         image:card_img12,
-        name:"Mission Ganj"
+        name:"Prison Break"
     },
     {
         image:card_img13,
-        name:"Leo"
+        name:"De Volta Aos 15"
     },
     {
         image:card_img14,
-        name:"All of Us Are Dead"
+        name:"A Liga"
     },
 ]
 
