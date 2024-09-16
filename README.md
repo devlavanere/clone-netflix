@@ -52,7 +52,7 @@ Abra seu navegador e acesse o endereço fornecido pelo Vite (por padrão, http:/
 - Git
 - GitHub
 
-### Video Multi-App Refatorado
+### Video Clone-Netflix
 <video src="https://github.com/user-attachments/assets/ced8e678-add7-4df4-8b9a-a2798e35634c" controls></video>
 
 ### Autor
